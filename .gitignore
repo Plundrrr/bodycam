@@ -1,0 +1,30 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Unreal Engine
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Game files
+*.pak
+*.ucas
+*.utoc
+*.exe
+*.dll
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Windows
+Thumbs.db
+Desktop.ini
